@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.ibb.co/ccfHKFYB/95595.png" alt="95595" border="0" width="200" height="200"> 
 </div>
-<div align="center"> /Here will be something maybe/ </div>
+<div align="center"> /Maybe something will be here/ </div>
 
 <div id="header" align="center">
  <img src="https://komarev.com/ghpvc/?username=rk-M5L&style=flat-square&color=blue" alt=""/>
